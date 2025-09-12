@@ -1,4 +1,4 @@
-# Computation in Nuclear Engineering
+# Python Basics 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MariaReji03/python-tutorial-fusion-summer-school-2025/HEAD)
 
